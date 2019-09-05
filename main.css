@@ -4,6 +4,7 @@ body {
   background-image: url("https://www.barraques.cat/pngfile/big/28-283253_majoras-mask-moon-majoras-mask-moon-background.jpg");
   background-repeat: repeat-y;
   backround-size: auto;
+  /*This is the background image*/
 }
 
 ul {
@@ -36,10 +37,12 @@ li a:hover:not(.active) {
 .active {
   color: red;
   background-color: black;
+  /* Everything above besides the background is for the Nav Bar*/
 }
 
 div.a {
   text-align: center;
+  /*Puts everything in the center*/
 }
 
 h1 {
@@ -66,8 +69,8 @@ p {
 
 h5 {
   font-family: "Times New Roman", Times, serif;
-  direction: ltr;
   color: white;
   font-size: 1vw;
   background-color: hsla(0, 0%, 55%, 0.6);
 }
+/*All styles of text is made to display a white color on a semi-transparent grey background for easier reading*/
