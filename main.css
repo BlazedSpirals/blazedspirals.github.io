@@ -1,6 +1,7 @@
 body {
   background-image: url("https://www.barraques.cat/pngfile/big/28-283253_majoras-mask-moon-majoras-mask-moon-background.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
+  backround-size: auto;
 }
 
 ul {
